@@ -1,3 +1,6 @@
+## Deployment link
+https://user-activity-react-app.netlify.app/
+
 # userActivity-app
 
 This app is a user interface that allows a user to view a list of hardcoded
