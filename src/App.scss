@@ -1,0 +1,75 @@
+
+
+#root div{
+  font-size: 16px!important;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 65px;
+  display: flex;
+  flex-direction: row;
+
+  color: white;
+  div{
+    width:50%;
+    padding-left:5%;
+  }
+  h6{
+  max-width: fit-content;
+  }
+  .logout-navigation-link{
+    cursor: pointer;
+    max-width: fit-content;
+    margin-left:30%;
+    margin-top:3%;
+  }
+ 
+}
+input[type=text], textarea {
+  -webkit-appearance: none;
+}
+input {
+  font-size: 18px;
+  outline: 0;
+  border-radius: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.date-container{
+  margin-left:20%
+}
+
+.btn-activity{
+  margin-left:40%;
+  margin-top:3%;
+  padding:5px;
+  background: #e86971;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  border-right-color: transparent;
+  height: 40px;
+  display: block;
+  cursor: pointer;
+    
+}
+
+.segment-table{
+  margin:2%;
+
+}
